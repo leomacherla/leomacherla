@@ -1,4 +1,4 @@
-# Leo Macherla
+# Hi, I'm Leo
 
 Developer and physics student based in the UK. I mostly work with React, Next.js, and Node.js, and I've recently been getting into Python for computational physics and data analysis.
 
